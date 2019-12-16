@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<tns:olfConfigDataManifest source="CMM" version="1.0" xmlns:tns="urn:cmm-olf-com:ConfigMigrationMgr">
+  <tns:originDetails>
+    <tns:codeVersion>
+      <tns:major>16</tns:major>
+      <tns:minor>1</tns:minor>
+      <tns:revision>10071</tns:revision>
+      <tns:build>1116</tns:build>
+      <tns:branchTag>V16_1_06012018ENIOIL_08262019</tns:branchTag>
+      <tns:date>Apr  5 2019</tns:date>
+      <tns:time>14:39:10</tns:time>
+    </tns:codeVersion>
+    <tns:database>ENDUROILP_TEST9A</tns:database>
+    <tns:databaseServer>ENDODT5T</tns:databaseServer>
+    <tns:user>eni_release_manager2</tns:user>
+    <tns:timestamp>20191216T111352</tns:timestamp>
+    <tns:GUID>20005.20191216T111352.ENDODT5T.ENDUROILP_TEST9A.Workflow</tns:GUID>
+    <tns:description>Package "20005.20191216T111352.ENDODT5T.ENDUROILP_TEST9A.Workflow" contains Data and Dependency information for: Workflow</tns:description>
+    <tns:referenceData>
+      <tns:referenceText></tns:referenceText>
+    </tns:referenceData>
+  </tns:originDetails>
+  <tns:dataFiles>
+    <tns:fileInfo>
+      <tns:filename seqNo="15">Workflow.xml</tns:filename>
+      <tns:description>This xml file contains "Workflow" data and dependencies for selected dataitems</tns:description>
+      <tns:checksum>J71YXUA4OEZRY48@1THVJ$WS1H!OWX$F</tns:checksum>
+      <tns:dataBlock olfType="Workflow" version="1.0.0.">
+        <tns:dataItem id="Transfer Trades" copyType="Full" status="Included" seqNo="1">
+          <tns:dependencies></tns:dependencies>
+        </tns:dataItem>
+      </tns:dataBlock>
+    </tns:fileInfo>
+  </tns:dataFiles>
+</tns:olfConfigDataManifest>
